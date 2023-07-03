@@ -5,7 +5,7 @@
 1 ≤ str의 길이 ≤ 1,000,000
 str에는 공백이 없으며, 첫째 줄에 한 줄로만 주어집니다.
 
-
+solution
 str = input()
 if len(str)>=1 and len(str)<=1000000 and str!='':
     print(str)
